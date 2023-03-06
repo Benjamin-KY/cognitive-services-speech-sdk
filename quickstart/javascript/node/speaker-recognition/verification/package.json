@@ -10,7 +10,7 @@
   "author": "Microsoft",
   "license": "MIT",
   "dependencies": {
-    "https-proxy-agent": "^3.0.0",
+    "https-proxy-agent": "^5.0.1",
     "microsoft-cognitiveservices-speech-sdk": "^1.20.0"
   }
 }
